@@ -1,0 +1,14 @@
+.flex-side-element{
+    display: flex;
+    flex-flow: row;
+}
+.flex-upper-element{
+    display: flex;
+    flex-flow: column;
+}
+.side-bg-container{
+
+}
+.upper-bg{
+    
+}
